@@ -24,23 +24,23 @@ Writing my first mathematical proof felt like coming home. A Classicist and an M
 
 ---
 
-## Working with AI
+## working with AI
 
 Prompting and AI collaboration are real skills, and I've put serious time into developing them. I use LLMs as research partners, debugging aids, and creative collaborators. I know how to get precise, useful output and how to critically evaluate what comes back.
 
 ---
 
-## Projects
+## projects
 
 ### 🍔 Online Food Delivery System
 `Java` `Collaborative` `Working App`
 
 A full online food delivery system built collaboratively in Java, covering order management, delivery logic, and user flows from end to end. Includes a working app version on GitHub.
 
-### 🚦 Rhooti Traffic Light Controller
+### 🚦 [Micro Architecture Traffic Light Controller](https://github.com/Rhooba/Micro-Architecture-Project)
 `Assembly` `Collaborative`
 
-A fully functional traffic light controller in 8086 Assembly with state machine design in draw.io. Built collaboratively with branching, PRs, and a full GitHub-based workflow.
+A fully functional 4-way smart traffic light controller in 8086 Assembly with state machine design in draw.io. Built collaboratively with branching, PRs, and a full GitHub-based workflow.
 
 ### 💊 Mom's Health Tracker App
 `JavaScript` `Personal`
@@ -54,7 +54,7 @@ Statistical analysis and interactive data visualization built with R and R Shiny
 
 ---
 
-## Outside the repo
+## outside the repo
 
 I write horror short stories rooted in fairy tale tradition. Not the softened versions. The old ones, where consequences are real and the edge cases land you in an oven. Turns out the Brothers Grimm understood error handling better than most modern developers. Also: hiking with my min pin Rhooba, baking with more technique than is probably necessary, and barre class to balance out the desk time.
 
