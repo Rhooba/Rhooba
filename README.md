@@ -24,13 +24,13 @@ Writing my first mathematical proof felt like coming home. A Classicist and an M
 
 ---
 
-## working with AI
+## Working with AI
 
 Prompting and AI collaboration are real skills, and I've put serious time into developing them. I use LLMs as research partners, debugging aids, and creative collaborators. I know how to get precise, useful output and how to critically evaluate what comes back.
 
 ---
 
-## projects
+## Projects
 
 ### 🍔 Online Food Delivery System
 `Java` `Collaborative` `Working App`
@@ -54,7 +54,7 @@ Statistical analysis and interactive data visualization built with R and R Shiny
 
 ---
 
-## outside the repo
+## Outside the repo
 
 I write horror short stories rooted in fairy tale tradition. Not the softened versions. The old ones, where consequences are real and the edge cases land you in an oven. Turns out the Brothers Grimm understood error handling better than most modern developers. Also: hiking with my min pin Rhooba, baking with more technique than is probably necessary, and barre class to balance out the desk time.
 
